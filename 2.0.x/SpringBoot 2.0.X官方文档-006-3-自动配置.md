@@ -1,4 +1,4 @@
-# SpringBoot 2.0.X官方文档-第一章-006-3-自动配置
+# SpringBoot 2.0.X官方文档-006-3-自动配置
 
 Spring Boot自动配置尝试根据您添加的jar依赖项自动配置Spring应用程序。例如，如果**HSQLDB**在您的类路径中，并且您尚未手动配置任何数据库连接bean，则Spring Boot会自动配置内存数据库。
 

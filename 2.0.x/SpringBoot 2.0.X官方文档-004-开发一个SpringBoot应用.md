@@ -1,4 +1,4 @@
-# SpringBoot 2.0.X官方文档-第一章-004-开发一个SpringBoot应用
+# SpringBoot 2.0.X官方文档-004-开发一个SpringBoot应用
 
 本节介绍如何开发一个简单的“Hello World！”Web应用程序，该应用程序重点介绍Spring Boot的一些主要功能。我们使用Maven来构建这个项目，因为大多数IDE都支持它。
 

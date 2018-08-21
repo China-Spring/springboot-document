@@ -1,4 +1,4 @@
-# SpringBoot 2.0.X官方文档-第一章-003-安装SpringBoot
+# SpringBoot 2.0.X官方文档-003-安装SpringBoot
 
 Spring Boot可以与“经典(classic)”Java开发工具一起使用，也可以作为命令行工具安装。无论哪种方式，您都需要[Java SDK v1.8](https://www.java.com/)或更高版本。在开始之前，您应该使用以下命令检查当前的Java安装：
 

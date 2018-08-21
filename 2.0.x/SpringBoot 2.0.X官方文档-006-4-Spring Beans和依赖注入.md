@@ -1,4 +1,4 @@
-# SpringBoot 2.0.X官方文档-第一章-006-4-Spring Beans和依赖注入
+# SpringBoot 2.0.X官方文档-006-4-Spring Beans和依赖注入
 
 您可以自由地使用任何标准的Spring Framework技术来定义bean及其注入的依赖项。为简单起见，我们经常发现使用 **@ComponentScan**（找到你的bean）和使用**@Autowired**（做构造函数注入）效果很好。
 
